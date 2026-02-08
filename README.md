@@ -105,15 +105,6 @@ If you plan to extend the project:
 
 This project was created as a college final project. For questions about running or extending the app, open an issue or contact the author (if contact details are available in project metadata).
 
----
-
-If you want, I can also:
-
-- Add a `config.example.php` file for DB credentials and update includes to use it.
-- Search the codebase and create a minimal `schema.sql` by extracting table creation from the project (if you want me to attempt that).
-
-Please tell me which follow-up you'd like (add config file / extract schema / run local instructions).
-
 # SQL-FINALS
 SQL Final Project - 93/100
 May 7, 2024
